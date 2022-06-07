@@ -5,8 +5,8 @@ Data breaches continue to dominate headlines around the world. Despite a greater
 ### IOS Supoprt
 
 Check if your accounts have been leaked through data breaches here!
+
 ```markdown
-Syntax highlighted code block
 
 ## Services Provided
 
