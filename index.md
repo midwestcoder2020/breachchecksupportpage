@@ -1,6 +1,6 @@
 ## Welcome To Breachgenics IOS/Android Support
 
-![Book logo](breachLogo-1024.png)
+![Book logo](breachLogo-83.5@2x.png)
 
 Data breaches continue to dominate headlines around the world. Despite a greater emphasis being placed on data security, cybercriminals are continually finding new ways to circumvent defenses to gain access to valuable corporate data. Use this application to ensure your accounts haven't been compromised and leaked to the public. Additionally, we provide a handy password generator you can use on the spot if need be.
 
